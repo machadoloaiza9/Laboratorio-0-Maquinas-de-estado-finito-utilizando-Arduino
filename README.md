@@ -6,6 +6,6 @@ Laboratorio #0 del Módulo de Electrónica Digital de Proyecto Instrumental II
 
 Realizado por:
 
-Cristian Lopera Trujillo
-Jose Manuel Machado Loaiza
-Sebastián Tobón Echavarría
+-Cristian Lopera Trujillo
+-Jose Manuel Machado Loaiza
+-Sebastián Tobón Echavarría
